@@ -1,0 +1,2 @@
+body{background-color:#e2f1f8}.App{display:flex;align-items:flex-start;flex-direction:column}.App__list{display:grid;grid-row-gap:20px;row-gap:20px}.App__task{padding:10px;background-color:#0288d1;border-radius:0 25px 25px 0;transition:box-shadow .3s ease}.App__task:hover{box-shadow:0 0 10px #005b9f}.App__title{text-transform:uppercase;font-weight:700}.App__status{font-style:italic;margin-top:10px}.App__name{text-align:right}
+/*# sourceMappingURL=main.6ad4c35e.chunk.css.map */
